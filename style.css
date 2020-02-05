@@ -260,6 +260,7 @@ header a:hover{
   background-color: #35424a;
   background-image: linear-gradient(#35424a,#ffffff);
   margin-top: 20px;
+  border-radius: 25px;
 }
 
 .robotsurl{
@@ -282,6 +283,7 @@ header a:hover{
 
 #boxes .box img{
   width: 300px;
+  border-radius: 25px;
 }
 
 /*******************SIDEBAR*******************/
@@ -455,6 +457,7 @@ footer{
   margin-left: 200px;
   margin-right: 200px;
   text-align: center;
+  border-radius: 25px;
 }
 
 /*******************CONTACTS-CSS*******************/
