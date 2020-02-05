@@ -483,3 +483,12 @@ footer{
     opacity: 1;
   }
 }
+
+/*******************CHANGELOG-CSS*******************/
+#changelog h1{
+  text-align: center;
+}
+
+#changelog p{
+  text-align: center;
+}
